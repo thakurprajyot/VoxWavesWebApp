@@ -1,0 +1,17 @@
+{
+    "name": "voxwaves-messaging-app",
+    "version": "1.0.0",
+    "description": "A simple messaging app project named VoxWaves",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    },
+    "devDependencies": {},
+    "keywords": ["voxwaves", "messaging", "app"],
+    "author": "Your Name",
+    "license": "MIT"
+  }  
